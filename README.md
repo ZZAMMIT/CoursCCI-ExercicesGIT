@@ -8,3 +8,7 @@ en croit l’enquête réalisée par 60 millions de consommateurs dans son derni
 45% des médicaments en automédication présentent un « mauvais rapport efficacité/tolérance », et c’est plus particulièrement le cas 
 des médicaments destinés à soigner le rhume. Heureusement il existe des alternatives naturelles permettant de traiter les symptômes 
 mais aussi d’agir sur les virus sans danger.
+
+ceci est un essai simple d'ajouts de lignes de code
+
+Lorem Elsass ipsum hoplageiss ornare risus, flammekueche commodo sagittis non Morbi Huguette Chulia Roberstau chambon Spätzle Mauris mollis amet, in, hop quam. tristique schneck Gal. varius hopla hopla ftomi! senectus Christkindelsmärik Carola hopla Gal ! libero. Oberschaeffolsheim kuglopf ornare Salu bissame yeuh. merci vielmols Pellentesque amet Kabinetpapier Yo dû. ullamcorper leo condimentum id sit Verdammi messti de Bischheim picon bière leverwurscht tchao bissame Oberschaeffolsheim Miss Dahlias dignissim Richard Schirmeck réchime kartoffelsalad nüdle DNA, consectetur geht's gal vielmols, ac schpeck Racing.
